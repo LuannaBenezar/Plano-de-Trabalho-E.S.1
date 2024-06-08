@@ -57,6 +57,51 @@ O aplicativo de gerenciamento de estoque permitirá que os usuários registrem o
 ## 2.2.2 Escopo Negativo
 - Não haverá aviso caso um produto esteja danificado. 
 - Não haverá uma versão web do aplicativo neste estágio inicial.
+ ## 2.3 Ambiente de Desenvolvimento
+
+|Ferramentas e tecnologia                                                  |
+|--------------------------------------------------------------------------|
+
+|Tipo                       | Modelo especifico   |
+|-------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| Ferramentas de Desenvolvimento| Criação de imagens Figma; Modelagem: Draw.io; Linguagem de Programação: Java.; Sistema Gerenciador Banco de Dados: PostgreSQL |
+|Ferramentas de Edição          | Edição de imagens: Figma; Edição de texto: Github, Google Docs.                                                               |
+|Ferramentas de Compartilhamento| Compartilhamento de arquivos: Github, Google Drive.                                                                           |
+|Ferramentas de Comunicação     | Comunicação digital: Whatsapp, Telegram.                                                                                      |
+ ## 2.4 Características Inovadoras do Projeto
+- Interface mais Intuitiva
+- Integração Mobile desktop
+- Sistema de Notificação
+- Recursos de Acessibilidade Modernos
+- Emissão de alertas em caso de produto próximo da data de validade
+##  2.5 Resultados Esperados
+- Redução de 30% em gastos desnecessários 
+- 5000 downloads nos primeiros três mês
+- Satisfação do usuário com uma média de 4.0 estrelas em avaliações
+
+## 3. METODOLOGIA DE PROJETO
+## 3.1 Estrutura do Projeto
+
+
+
+
+
+
+## 3.2 Equipe de Projeto: Papéis e Responsabilidades dos integrantes
+| Responsabilidade                     | Profissional   |
+|-------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| Definição de Personas         | Felipe |
+|Ferramentas de Edição          | Edição de imagens: Figma; Edição de texto: Github, Google Docs.                                                               |
+|Ferramentas de Compartilhamento| Compartilhamento de arquivos: Github, Google Drive.                                                                           |
+|Ferramentas de Comunicação     | Comunicação digital: Whatsapp, Telegram.                         
+
+
+
+
+
+
+
+
 
 
 
