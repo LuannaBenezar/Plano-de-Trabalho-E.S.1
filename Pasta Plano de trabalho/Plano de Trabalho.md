@@ -88,12 +88,63 @@ O aplicativo de gerenciamento de estoque permitirá que os usuários registrem o
 
 
 ## 3.2 Equipe de Projeto: Papéis e Responsabilidades dos integrantes
-| Responsabilidade                     | Profissional   |
-|-------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
-| Definição de Personas         | Felipe |
-|Ferramentas de Edição          | Edição de imagens: Figma; Edição de texto: Github, Google Docs.                                                               |
-|Ferramentas de Compartilhamento| Compartilhamento de arquivos: Github, Google Drive.                                                                           |
-|Ferramentas de Comunicação     | Comunicação digital: Whatsapp, Telegram.                         
+| Responsabilidade                 | Profissional   |
+|-------------------------------|-------------------|
+| Definição de Personas            | Felipe         |
+| Definição de Personas            | Jander         |
+| Definição de Personas            | Michel         |
+| Definição de Personas            | Tiago          |
+| Criação de User Stories          | Luanna         |  
+| Criação de User Stories          | Felipe         |  
+| Criação de User Stories          | Marcos         |      
+| Formatação do projeto em Markdown| Luanna         |
+| Formatação do projeto em Markdown| Marcos         |
+| Formatação do Plano de Trabalho  | Luanna         |
+| Formatação do Plano de Trabalho  | Luanna         |
+| Backlog do Produto               | Felipe         |
+| Backlog do Produto               | Jander         |
+| Backlog do Produto               | Luanna         |
+| Backlog do Produto               | Marcos         |
+| Backlog do Produto               | Michel         |
+| Backlog do Produto               | Tiago          |
+| Backlog do Sprint                | Felipe         |
+| Backlog do Sprint                | Jander         |
+| Backlog do Sprint                | Luanna         |
+| Backlog do Sprint                | Marcos         |
+| Backlog do Sprint                | Michel         |
+| Backlog do Sprint                | Tiago          |
+
+## 3.3 Fases, atividades e cronograma
+
+## Fase I: Especificação – Maio/Junho: 
+- Requisitos do projeto
+- Planejamento inicial
+## Fase II: Inspeção – Junho: 
+- Revisão dos artefatos
+## Fase III:  Projeto e Arquitetura – Junho:
+- Design da arquitetura do sistema
+- Criação de wireframes
+## Fase IV: Prototipagem e Refinamento – Junho/Julho:
+- Desenvolvimento do protótipo inicial
+- Feedback e ajustes
+## Fase V: Prototipagem e Refinamento – Julho:
+- Testes de usabilidade
+- Aperfeiçoamento do protótipo
+## Fase VI: Encerramento – Julho
+
+## 3.4 Entregas de cada Fase
+
+| Fase| Mês | Entregável |
+|----------------|-------------|-------------|
+|I. Especificação| Junho | Documento markdown |
+|II. Inspeção    | Junho | Documento markdown |
+|III. Projeto e Arquitetura |Junho | Documento markdown|
+
+
+
+
+
+
 
 
 
