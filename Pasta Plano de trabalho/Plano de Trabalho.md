@@ -136,9 +136,25 @@ O aplicativo de gerenciamento de estoque permitirá que os usuários registrem o
 
 | Fase| Mês | Entregável |
 |----------------|-------------|-------------|
-|I. Especificação| Junho | Documento markdown |
-|II. Inspeção    | Junho | Documento markdown |
-|III. Projeto e Arquitetura |Junho | Documento markdown|
+|I. Especificação               | Junho    | Documento markdown       |
+|II. Inspeção                   | Junho    | Documento markdown       |
+|III. Projeto e Arquitetura     |Junho     | Documento markdown       |
+|IV. Prototipagem e Refinamento | Julho    | Protótipo de Interface   |
+| V. Encerramento               | Julho    | Documento markdown       |
+
+## 3.5 Controle de Mudanças
+O monitoramento e controle do escopo do projeto serão realizados a partir das seguintes diretrizes:
+- Os requisitos do projeto devem ser compreendidos por todos os membros da equipe.
+- Todas as questões técnicas, de entregas e do cronograma que a equipe do projeto possui devem ser respondidas.
+- Todas as entregas devem ser acordadas pela equipe do projeto e entidades parceiras.
+- Todas as informações devem estar atualizadas no escopo e não-escopo.
+- Nenhum trabalho fora do escopo do projeto deve ser feito.
+- As solicitações de mudança no escopo do projeto devem ser efetivamente comunicadas e compreendidas. 
+
+
+
+
+
 
 
 
