@@ -1,11 +1,14 @@
 #  PLANO DE TRABALHO
 
 | Nome do Projeto | Stock now |
-|---------------------|-----------------|
-|Versão               |    1.0          |
-|Status               | Em andamento    |
-| Executor Principal  |  Luanna         |
-Coordenador do Projeto| Andrey Rodrigues|
+|----------------------|-----------------|
+|Versão                |    1.0          |
+|Status                | Em andamento    |
+| Executor Principal   | Luanna          |
+|Coordenador do Projeto| Andrey Rodrigues|
+
+**Integrantes : Felipe Aliel, Jander, Luanna Benezar, Marcos Gabriel, Michel e Tiago.**
+
 
 ## HISTÓRICO DE VERSÕES 
 | Versão | Descrição                          | Autor                                       | Data     |
