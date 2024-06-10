@@ -2,21 +2,25 @@
 
 | Nome do Projeto | Stock now |
 |---------------------|-----------------|
-|Versão               |    1.3          |
+|Versão               |    1.0          |
 |Status               | Em andamento    |
-| Executor Principal  |                 |
+| Executor Principal  |  Luanna         |
 Coordenador do Projeto| Andrey Rodrigues|
 
 ## HISTÓRICO DE VERSÕES 
-| Versão | Descrição                  | Autor                                       | Data     |
-|--------|----------------------------|---------------------------------------------|-------   |
-|1.0     | Levantamento de requisitos | Felipe/Luanna/Jander/Michel/Marcos e Thiago |03/06/2024|
-|1.1     | Linha 2, C2 | Linha 2, C2 |
+| Versão | Descrição                          | Autor                                       | Data     |
+|--------|------------------------------------|---------------------------------------------|-------   |
+|1.0     | Criação do Backlog                 | Felipe/Luanna/Jander/Michel/Marcos e Thiago |03/06/2024|
+|1.0     | Criação de Personas                | Felipe/Tiago /Michel/Jander                 |04/06/2024|
+|1.0     | Elaboração do Plano de Trabalho    | Marcos/Luanna/Tiago                         |06/06/2024|
+|1.0     | Criação de User Stories            | Marcos/Luanna/Felipe                        |07/06/2024|
+|1.0     | Backlog do Sprint                  | Marcos/Felipe/Luanna/Tiago /Michel/Jander   |10/06/2024|
+
 
 # Índice
 ## 1. Introdução
 Este trabalho foi feito com o intuito de apresentar um plano de trabalho para um aplicativo de gerenciamento de estoque tanto de empresas quanto de empreendedores ou negócios em geral, de forma que o mesmo torne-se mais eficaz e diminua a margem de erro humano. Para este trabalho, utilizamos ferramentas como Figma e Github para edição de texto e imagens, junto de outras ferramentas para compartilhamento de arquivos e comunicação em geral.
-## 1.1 Objetivo
+## 1.1 Objeto
 Desenvolvimento de um aplicativo para  controle de estoque que ajude empresas e empreendedores a gerenciar de forma eficiente seus inventários.
 ## 1.2 Motivação, Justificativa e Oportunidade
 - **Motivação:** Com o ritmo acelerado da sociedade moderna as empresas buscam otimizar a forma com que utilizam seus recursos através de um gerenciamento preciso e confiável.
